@@ -6,7 +6,7 @@
 	"semi": false,
 	"singleQuote": true,
 	"jsxSingleQuote": false,
-	"trailingComma": "none",
+	"trailingComma": "all",
 	"arrowParens": "always",
 	"proseWrap": "always"
 }
